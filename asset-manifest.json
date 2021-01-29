@@ -2,15 +2,10 @@
   "files": {
     "main.css": "/extOS/static/css/main.15c655ba.chunk.css",
     "main.js": "/extOS/static/js/main.86323628.chunk.js",
-    "main.js.map": "/extOS/static/js/main.86323628.chunk.js.map",
     "runtime-main.js": "/extOS/static/js/runtime-main.489ffdbe.js",
-    "runtime-main.js.map": "/extOS/static/js/runtime-main.489ffdbe.js.map",
     "static/js/2.86dda7a6.chunk.js": "/extOS/static/js/2.86dda7a6.chunk.js",
-    "static/js/2.86dda7a6.chunk.js.map": "/extOS/static/js/2.86dda7a6.chunk.js.map",
     "static/js/3.97ce0975.chunk.js": "/extOS/static/js/3.97ce0975.chunk.js",
-    "static/js/3.97ce0975.chunk.js.map": "/extOS/static/js/3.97ce0975.chunk.js.map",
     "index.html": "/extOS/index.html",
-    "static/css/main.15c655ba.chunk.css.map": "/extOS/static/css/main.15c655ba.chunk.css.map",
     "static/js/2.86dda7a6.chunk.js.LICENSE.txt": "/extOS/static/js/2.86dda7a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
